@@ -1,6 +1,7 @@
 theme: minima
 header_pages:
  - index.md
- - quickguide.md
+ - quickguide_ja.md
+ - quickguide_en.md
  - links.md
 title: ソフトウェアカーペントリー日本

@@ -20,7 +20,7 @@ title: 情報リンク
 
 - 2018年10月20日 TokyoR ソフトウェアカーペントリーの紹介 [@TomKellyGenetics](https://github.com/TomKellyGenetics)
   - [スライド](https://www.slideshare.net/Fridayitis/presentation-oct2018tokyo-r)
-- 2019年12月16日 [Wofkflow Meetup](https://workflow-meetup-jp.github.io/) ソフトウェアカーペントリーの紹介 [@joelnitta](https://github.com/joelnitta)
+- 2019年12月16日 [Workflow Meetup](https://workflow-meetup-jp.github.io/) ソフトウェアカーペントリーの紹介 [@joelnitta](https://github.com/joelnitta)
   - [スライド](https://joelnitta.github.io/swc-trans-2019-12-16/#1)
   - [ソースコード](https://github.com/joelnitta/swc-trans-2019-12-16)
 - 2020年11月7日 [関西オープンフォーラム KOF2020](https://www.k-of.jp/2020/) [@kozo2](https://github.com/kozo2)
@@ -30,10 +30,13 @@ title: 情報リンク
 
     [![](http://img.youtube.com/vi/8nRD6DkgkDw/0.jpg)](http://www.youtube.com/watch?v=8nRD6DkgkDw "KOF2020 ソフトウェア・カーペントリーで研究計算用のスキルを広めよう")
     
-  - 2020年11月17日 [岩崎研究室](http://iwasakilab.bs.s.u-tokyo.ac.jp/) ソフトウェアカーペントリーの紹介 [@joelnitta](https://github.com/joelnitta)
-    - [スライド](https://joelnitta.github.io/swc-trans-2020-11-17/#1)
-    - [ソースコード](https://github.com/joelnitta/swc-trans-2020-11-17/)
-    - [ノート](https://hackmd.io/TyLqI5dQTmqnnrH94mKn2A?view)
+- 2020年11月17日 [岩崎研究室](http://iwasakilab.bs.s.u-tokyo.ac.jp/) ソフトウェアカーペントリーの紹介 [@joelnitta](https://github.com/joelnitta)
+  - [スライド](https://joelnitta.github.io/swc-trans-2020-11-17/#1)
+  - [ソースコード](https://github.com/joelnitta/swc-trans-2020-11-17/)
+  - [ノート](https://hackmd.io/TyLqI5dQTmqnnrH94mKn2A?view)
+
+- 2021-03-27: [fukuoka.R #17](https://fukuoka-r.connpass.com/event/206105/)(オンライン) ザ・カーペントリーズの紹介 [@masamiy](https://github.com/masamiy)
+  - [スライド](https://www.slideshare.net/MasamiYamaguchi/what-is-the-carpentries)
     
 ## ミーティングノート
 

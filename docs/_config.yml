@@ -5,7 +5,3 @@ header_pages:
  - quickguide_en.md
  - links.md
 title: ソフトウェアカーペントリー日本
-plugins:
-  - jekyll-multiple-languages-plugin
-languages: ["ja", "en"]
-exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]

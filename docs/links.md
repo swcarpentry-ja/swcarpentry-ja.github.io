@@ -7,10 +7,10 @@ title: 情報リンク
 - 2019年11月5日 [ソフトウェアカーペントリーの日本への紹介](https://carpentries.org/blog/2019/11/local-team-japan/) 英文、日本語翻訳予定
 - 2019年11月21日[日本語への翻訳のためのシステム](https://carpentries.org/blog/2019/11/translations-in-japanese/) 英文、日本語翻訳予定
 
-## Slackワークスペースのサインアップ
+## Slackワークスペース
 
-- [English](https://carpentries-jp-en.herokuapp.com/)
-- [日本語](https://carpentries-ja.herokuapp.com/)
+- [下記ワークスペースへの招待リンク](https://join.slack.com/t/carpentries-ja/shared_invite/zt-14lt78mp3-HY1NmwOeKdEiqxDytl4djA)
+- [ワークスペース(carpentries-ja.slack.com)](https://carpentries-ja.slack.com)
 
 ## ツイッター
 

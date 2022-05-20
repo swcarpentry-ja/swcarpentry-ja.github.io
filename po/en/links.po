@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 1 (header)
+msgid "title: 情報リンク"
+msgstr "title: Links"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 2 (header)
+msgid "Carpentriesのブログの記事"
+msgstr "Posts on the Carpentries blog"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 3 (unordered list)
+msgid "2019年11月5日 [ソフトウェアカーペントリーの日本への紹介](https://carpentries.org/blog/2019/11/local-team-japan/) 英文、日本語翻訳予定"
+msgstr "2019-11-5 [The Carpentries in Tōkyō: Adventures bringing Software Carpentry to Japan](https://carpentries.org/blog/2019/11/local-team-japan/)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 3 (unordered list)
+msgid "2019年11月21日[日本語への翻訳のためのシステム](https://carpentries.org/blog/2019/11/translations-in-japanese/) 英文、日本語翻訳予定"
+msgstr "2019-11-21 [Internationalisation of Software Carpentry: System for Translation into Japanese](https://carpentries.org/blog/2019/11/translations-in-japanese/)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 4 (header)
+msgid "Slackワークスペース"
+msgstr "Slack Workspace"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 5 (unordered list)
+msgid "[下記ワークスペースへの招待リンク](https://join.slack.com/t/carpentries-ja/shared_invite/zt-14lt78mp3-HY1NmwOeKdEiqxDytl4djA)"
+msgstr "[Link to join workspace below](https://join.slack.com/t/carpentries-ja/shared_invite/zt-14lt78mp3-HY1NmwOeKdEiqxDytl4djA)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 5 (unordered list)
+msgid "[ワークスペース(carpentries-ja.slack.com)](https://carpentries-ja.slack.com)"
+msgstr "[Workspace (carpentries-ja.slack.com)](https://carpentries-ja.slack.com)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 6 (header)
+msgid "ツイッター"
+msgstr "Twitter"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 7 (unordered list)
+msgid "[@swcarpentry-ja](https://twitter.com/swcarpentry_ja)"
+msgstr "[@swcarpentry-ja](https://twitter.com/swcarpentry_ja)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 8 (header)
+msgid "プレゼンテーション"
+msgstr "Presentations"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "2018年10月20日 TokyoR ソフトウェアカーペントリーの紹介 [@TomKellyGenetics](https://github.com/TomKellyGenetics)"
+msgstr "2018-10-20 TokyoR Introducing Software Carpentry [@TomKellyGenetics](https://github.com/TomKellyGenetics)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[スライド](https://www.slideshare.net/Fridayitis/presentation-oct2018tokyo-r)"
+msgstr "[Slides](https://www.slideshare.net/Fridayitis/presentation-oct2018tokyo-r)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "2019年12月16日 [Workflow Meetup](https://workflow-meetup-jp.github.io/) ソフトウェアカーペントリーの紹介 [@joelnitta](https://github.com/joelnitta)"
+msgstr "2019-12-16 [Workflow Meetup](https://workflow-meetup-jp.github.io/) Introducing Software Carpentry [@joelnitta](https://github.com/joelnitta)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[スライド](https://joelnitta.github.io/swc-trans-2019-12-16/#1)"
+msgstr "[Slides](https://joelnitta.github.io/swc-trans-2019-12-16/#1)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[ソースコード](https://github.com/joelnitta/swc-trans-2019-12-16)"
+msgstr "[Source code](https://github.com/joelnitta/swc-trans-2019-12-16)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "2020年11月7日 [関西オープンフォーラム KOF2020](https://www.k-of.jp/2020/) [@kozo2](https://github.com/kozo2)"
+msgstr "2020-11-7 [Kansai Open Forum KOF2020](https://www.k-of.jp/2020/) [@kozo2](https://github.com/kozo2)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[概要](https://k-of.jp/backend/session/1380)"
+msgstr "[Summary](https://k-of.jp/backend/session/1380)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[スライド](https://docs.google.com/presentation/d/1Or3HULEmJZT1P8AFSOl4C9JMfts-4T5FaMb0T9pVNZ8/edit#slide=id.p)"
+msgstr "[Slides](https://docs.google.com/presentation/d/1Or3HULEmJZT1P8AFSOl4C9JMfts-4T5FaMb0T9pVNZ8/edit#slide=id.p)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "YouTubeアーカイブ"
+msgstr "YouTube Video (Japanese)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[![](http://img.youtube.com/vi/8nRD6DkgkDw/0.jpg)](http://www.youtube.com/watch?v=8nRD6DkgkDw \"KOF2020 ソフトウェア・カーペントリーで研究計算用のスキルを広めよう\")"
+msgstr "[![](http://img.youtube.com/vi/8nRD6DkgkDw/0.jpg)](http://www.youtube.com/watch?v=8nRD6DkgkDw \"KOF2020 ソフトウェア・カーペントリーで研究計算用のスキルを広めよう\")"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "2020年11月17日 [岩崎研究室](http://iwasakilab.bs.s.u-tokyo.ac.jp/) ソフトウェアカーペントリーの紹介 [@joelnitta](https://github.com/joelnitta)"
+msgstr "2020-11-17 [Iwasaki lab](http://iwasakilab.k.u-tokyo.ac.jp/eindex.html) Introducing Software Carpentry [@joelnitta](https://github.com/joelnitta)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[スライド](https://joelnitta.github.io/swc-trans-2020-11-17/#1)"
+msgstr "[Slides](https://joelnitta.github.io/swc-trans-2020-11-17/#1) (Japanese)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[ソースコード](https://github.com/joelnitta/swc-trans-2020-11-17/)"
+msgstr "[Source code](https://github.com/joelnitta/swc-trans-2020-11-17/)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[ノート](https://hackmd.io/TyLqI5dQTmqnnrH94mKn2A?view)"
+msgstr "[Notes](https://hackmd.io/TyLqI5dQTmqnnrH94mKn2A?view)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "2021-03-27: [fukuoka.R #17](https://fukuoka-r.connpass.com/event/206105/)(オンライン) ザ・カーペントリーズの紹介 [@masamiy](https://github.com/masamiy)"
+msgstr "2021-03-27: [fukuoka.R #17](https://fukuoka-r.connpass.com/event/206105/)(Online) Introducing the Carpentries [@masamiy](https://github.com/masamiy)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 9 (unordered list)
+msgid "[スライド](https://www.slideshare.net/MasamiYamaguchi/what-is-the-carpentries)"
+msgstr "[Slides](https://www.slideshare.net/MasamiYamaguchi/what-is-the-carpentries) (Japanese)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 10 (header)
+msgid "ミーティングノート"
+msgstr "Meeting notes"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 11 (unordered list)
+msgid "[2018年11月10日](https://docs.google.com/document/d/1a25dAWiWfNo5-ffe_VGFBdpx-n_O5D2HMYogpaGs1xE/edit)"
+msgstr "[2018-11-10](https://docs.google.com/document/d/1a25dAWiWfNo5-ffe_VGFBdpx-n_O5D2HMYogpaGs1xE/edit)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 11 (unordered list)
+msgid "[2018年12月1日](https://docs.google.com/document/d/1iAmVtqdprjIgo8YercQg9wYwkNdkK4lyp24sL-pt5sA/edit)"
+msgstr "[2018-12-1](https://docs.google.com/document/d/1iAmVtqdprjIgo8YercQg9wYwkNdkK4lyp24sL-pt5sA/edit)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 11 (unordered list)
+msgid "[2019年1月19日](https://docs.google.com/document/d/1CfjKSGpuZngPcSkZwV31XPhxtyruerX2pn_lUAP_GV0/edit)"
+msgstr "[2019-1-19](https://docs.google.com/document/d/1CfjKSGpuZngPcSkZwV31XPhxtyruerX2pn_lUAP_GV0/edit)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 11 (unordered list)
+msgid "[2019年7月21日](https://docs.google.com/document/d/1WAnWp2s4tIXqo6a8EOABfWizoiPiRe6FI2PTTfNqtZs/edit)"
+msgstr "[2019-7-21](https://docs.google.com/document/d/1WAnWp2s4tIXqo6a8EOABfWizoiPiRe6FI2PTTfNqtZs/edit)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 11 (unordered list)
+msgid "[2019年12月7日](https://docs.google.com/document/d/16IA3ChdGcs-VaPMr30FlSRXq88AVWSjsnqEcMHc9fqQ/edit)"
+msgstr "[2019-12-7](https://docs.google.com/document/d/16IA3ChdGcs-VaPMr30FlSRXq88AVWSjsnqEcMHc9fqQ/edit)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 11 (unordered list)
+msgid "[2019年12月24日](https://hackmd.io/yX10jYXzSb-XVlgdApnOkQ?view)"
+msgstr "[2019-12-24](https://hackmd.io/yX10jYXzSb-XVlgdApnOkQ?view)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 11 (unordered list)
+msgid "[2020年5月10日](https://docs.google.com/document/d/1dZR0DHtQ5udNU3gdEvnHv_18j5XuCoVpnDEpdjRDkt0/edit#heading=h.oq2lm1b7nze7)"
+msgstr "[2020-5-10](https://docs.google.com/document/d/1dZR0DHtQ5udNU3gdEvnHv_18j5XuCoVpnDEpdjRDkt0/edit#heading=h.oq2lm1b7nze7)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e28c81651:block 11 (unordered list)
+msgid "[2020年7月29日以降](https://docs.google.com/document/d/1guIoZ4a-Nrr-oaBTsbPcZsx6bN_n8jrHGVqGya9OVYA/edit#heading=h.lx3pjqndsni4)"
+msgstr "[2020-7-29 and onwards](https://docs.google.com/document/d/1guIoZ4a-Nrr-oaBTsbPcZsx6bN_n8jrHGVqGya9OVYA/edit#heading=h.lx3pjqndsni4)"
+
+

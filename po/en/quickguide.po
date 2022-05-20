@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 1 (header)
+msgid "title: 翻訳のクイックガイド"
+msgstr "title: \"Quick guide to translation\""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 2 (header)
+msgid "リポジトリをforkする"
+msgstr "Fork the repo"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 3 (ordered list)
+msgid "“Fork” ボタンをクリックします"
+msgstr "Click on the \"Fork\" button"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 4 (paragraph)
+msgid "![](fork_button.png)"
+msgstr "![](fork_button.png)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 5 (header)
+msgid "あなたの fork を CloneもしくはDownload する"
+msgstr "Clone/Download your fork"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 6 (ordered list)
+msgid "あなたのアカウントのi18nリポジトリにいることを確認します"
+msgstr "Make sure you are in your account and in the forked i18n repo"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 6 (ordered list)
+msgid "“Clone” をクリックします"
+msgstr "Click on “Clone”"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 6 (ordered list)
+msgid "“HTTPS” をクリックします"
+msgstr "Click on “HTTPS”"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 6 (ordered list)
+msgid "クリップボードのアイコンをクリックします (これでURLがコピーされます)"
+msgstr "Click on the clipboard icon (this will copy the URL)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 6 (ordered list)
+msgid "ターミナル(もしくはコマンドプロンプト)に移動し “git clone <コピーしたURLをここに貼り付ける>” を実行します"
+msgstr "Go to terminal (or command line) and enter “git clone <URL>”"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 6 (ordered list)
+msgid "“i18n” フォルダができていることを確認します"
+msgstr "Check that there is an “i18n” folder"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 7 (paragraph)
+msgid "![](clone1234.png)"
+msgstr "![](clone1234.png)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 8 (paragraph)
+msgid "![](clone56.png)"
+msgstr "![](clone56.png)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 9 (header)
+msgid "どのレッスンを翻訳するか決める"
+msgstr "Decide which lesson to translate"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 10 (ordered list)
+msgid "SWC-jaの i18n リポジトリに移動します"
+msgstr "Go to SWC-ja’s i18n repo"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 10 (ordered list)
+msgid "“Issues” をクリックします"
+msgstr "Click on “Issues”"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 10 (ordered list)
+msgid "タイトルに “Translation:” がある issue のどれかをクリックします"
+msgstr "Click on any issue with “Translation” in the title"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 10 (ordered list)
+msgid "説明を読みます"
+msgstr "Read the description"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 10 (ordered list)
+msgid "この issue にコメントし、あなたがこの翻訳に取り組むことをSWC-jaのメンバーに知らせます (コメントの例:「私はこれに取り組みます!!」)"
+msgstr "Comment on the issue to let people know that you are working on this (e.g. “I am working on this!!”)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 11 (paragraph)
+msgid "![](which_lesson123.png)"
+msgstr "![](which_lesson123.png)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 12 (paragraph)
+msgid "![](which_lesson45.png)"
+msgstr "![](which_lesson45.png)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 13 (header)
+msgid "翻訳する"
+msgstr "Translate"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 14 (ordered list)
+msgid "“i18n” フォルダに移動します"
+msgstr "Go to “i18n” folder"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 14 (ordered list)
+msgid "“po” フォルダに移動します"
+msgstr "Go to “po” folder"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 14 (ordered list)
+msgid "“.ja.po” のファイル拡張子も持つファイルを見つけます"
+msgstr "Find any file with “.ja.po” file extension"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 14 (ordered list)
+msgid "“.ja.po” ファイルをお気に入りのPOエディターで翻訳するか、直接編集します"
+msgstr "Translate with your favorite PO editor or directly edit the file"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 15 (paragraph)
+msgid "![](translate123.png)"
+msgstr "![](translate123.png)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 16 (header)
+msgid "ファイルを直接編集する場合"
+msgstr "Directly editing the file"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 17 (ordered list)
+msgid "“msgid” は変更しないようにします"
+msgstr "Do NOT change “msgid”"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 17 (ordered list)
+msgid "“msgstr” ブロックの\"\"の内(間)を翻訳します"
+msgstr "Translate anything in between the quotation marks in the “msgstr” block only"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 18 (paragraph)
+msgid "![](directly_editing12.png)"
+msgstr "![](directly_editing12.png)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e45d8ce36:block 19 (paragraph)
+msgid "![](example_translation.png)"
+msgstr "![](example_translation.png)"
+
+

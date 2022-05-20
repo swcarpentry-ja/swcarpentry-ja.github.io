@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e63aa4348:block 1 (paragraph)
+msgid "project: type: website output-dir: docs"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e63aa4348:block 2 (paragraph)
+msgid "website: title: \"swcarpentry-ja.github.io\" navbar: background: primary left: - href: index.qmd text: ホーム - quickguide.qmd - links.qmd"
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/filec3e63aa4348:block 3 (paragraph)
+msgid "format: html: theme: cosmo css: styles.css toc: false"
+msgstr ""
+
+

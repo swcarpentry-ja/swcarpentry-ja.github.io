@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "swcarpentry-ja.github.io"
+  title: "SWC-JA"
   navbar:
     background: primary
     left:
@@ -11,6 +11,8 @@ website:
         text: ホーム
       - quickguide.qmd
       - links.qmd
+      - href: "https://swcarpentry-ja.github.io/en/"
+        text: English
 
 format:
   html:

@@ -1,9 +1,10 @@
 # Helper function to create a locale/lang directory populated with
 # files needed for translation
-create_locale <- function(lang) {
+swcja_create_locale <- function(lang) {
 
   # Create locale/{lang} folder if it does not yet exist
-  fs::dir_create(glue::glue("locale/{lang}"))
+  locale_lang <- glue::glue("locale/{lang}")
+  if (!fs::dir_exists(locale_lang)) fs::dir_create(locale_lang)
 
   # Copy all files needed for building webpage with quarto to locale/{lang}
   file_tibble <-
@@ -12,7 +13,7 @@ create_locale <- function(lang) {
       dplyr::filter(
         stringr::str_detect(
           file,
-          "^docs|po|R|renv|.Rprofile|renv.lock|locale",
+          "^docs|po|R|renv|.Rprofile|renv.lock|locale|assets",
           negate = TRUE
         )
       ) %>%

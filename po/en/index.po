@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 1 (header)
+msgid "ソフトウェアカーペントリー日本語チームのウェブサイトへようこそ。"
+msgstr "Welcome to Software Carpentry JA"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 2 (paragraph)
+msgid "[ソフトウェアカーペントリー](https://software-carpentry.org/)とは、ワークショップ形式でresearch computingのためのレッスンを行う国際的なコミュニティです。 ソフトウェアカーペントリー日本語チームはそのレッスンの英語を日本語に翻訳し、日本にもソフトウェアカーペントリーの情報を広めようと活動しています。"
+msgstr "[Software Carpentry](https://software-carpentry.org/) is an international community that teaches research computing lessons through workshops. The Software Carpentry JA team translates English lessons into Japanese and provides information about Software Carpentry in Japan."
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 3 (paragraph)
+msgid "具体的な目標は[ソフトウェアカーペントリーのコアレッスン](https://software-carpentry.org/lessons/)をすべて日本語訳し、日本でも定期的に「日本語で」[ワークショップ](https://software-carpentry.org/workshops/)を行うことです。"
+msgstr "Our specific goals are to translate all the [Software Carpentry lessons](https://software-carpentry.org/lessons/) into Japanese, and to [hold workshops](https://software-carpentry.org/workshops/) **in Japanese** on a regular basis."
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 4 (header)
+msgid "翻訳プロジェクトへのリンク"
+msgstr "Links for the translation project"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 5 (paragraph)
+msgid "GitHubの [swcarpentry-ja/i18n](https://github.com/swcarpentry-ja/i18n) で翻訳プロジェクトの管理を 行っています。"
+msgstr "We manage translations at on GitHub at [swcarpentry-ja/i18n](https://github.com/swcarpentry-ja/i18n)."
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 6 (paragraph)
+msgid "下記の「現在翻訳中のレッスン」の更新は、この [swcarpentry-ja/i18n](https://github.com/swcarpentry-ja/i18n) を更新すると自動的に行われるようになっています。"
+msgstr "All of the lessons indicated in \"Lessons Currently in Translation\" below are automatically updated when there is an update to [swcarpentry-ja/i18n](https://github.com/swcarpentry-ja/i18n)."
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 7 (paragraph)
+msgid "翻訳プロジェクトへの参加を希望される方は [翻訳のクイックガイド](quickguide.qmd) をご参照ください。"
+msgstr "If you wish to contribute to the translation project, please the the [Translation Quickguide](quickguide.qmd)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 8 (header)
+msgid "現在翻訳中のレッスン"
+msgstr "Lessons Currently in Translation"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 9 (unordered list)
+msgid "[R-gapminder](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/)"
+msgstr "[R-gapminder](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 9 (unordered list)
+msgid "[git-novice](https://swcarpentry-ja.github.io/git-novice/ja/)"
+msgstr "[git-novice](https://swcarpentry-ja.github.io/git-novice/ja/)"
+
+#: /dc7461dbb051ac1424635a9b0f3395f8_1/file157b614bc5a77:block 9 (unordered list)
+msgid "[shell-novice](https://swcarpentry-ja.github.io/shell-novice/ja/)"
+msgstr "[shell-novice](https://swcarpentry-ja.github.io/shell-novice/ja/)"
+
+

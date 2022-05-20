@@ -4,6 +4,7 @@ library(quarto)
 source("R/functions.R")
 
 # Create ./locale/{lang} containing files needed for translation
+if (fs::dir_exists("local/en")) fs::dir_delete("locale/en") # start clean
 create_locale("en")
 
 # Translate md files

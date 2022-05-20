@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "swcarpentry-ja.github.io"
@@ -16,6 +17,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-
-
-

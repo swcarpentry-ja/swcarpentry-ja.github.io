@@ -37,14 +37,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "swcarpentry-ja.github.io",
+    "title": "SWC-JA",
     "section": "",
     "text": "ソフトウェアカーペントリーとは、ワークショップ形式でresearch computingのためのレッスンを行う国際的なコミュニティです。 ソフトウェアカーペントリー日本語チームはそのレッスンの英語を日本語に翻訳し、日本にもソフトウェアカーペントリーの情報を広めようと活動しています。\n具体的な目標はソフトウェアカーペントリーのコアレッスンをすべて日本語訳し、日本でも定期的に「日本語で」ワークショップを行うことです。"
   },
   {
     "objectID": "index.html#翻訳プロジェクトへのリンク",
     "href": "index.html#翻訳プロジェクトへのリンク",
-    "title": "swcarpentry-ja.github.io",
+    "title": "SWC-JA",
     "section": "翻訳プロジェクトへのリンク",
     "text": "翻訳プロジェクトへのリンク\nGitHubの swcarpentry-ja/i18n で翻訳プロジェクトの管理を 行っています。\n下記の「現在翻訳中のレッスン」の更新は、この swcarpentry-ja/i18n を更新すると自動的に行われるようになっています。\n翻訳プロジェクトへの参加を希望される方は 翻訳のクイックガイド をご参照ください。\n\n現在翻訳中のレッスン\n\nR-gapminder\ngit-novice\nshell-novice"
   },

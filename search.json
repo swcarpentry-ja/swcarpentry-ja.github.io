@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "情報リンク",
+    "section": "",
+    "text": "2019年11月5日 ソフトウェアカーペントリーの日本への紹介 英文、日本語翻訳予定\n2019年11月21日日本語への翻訳のためのシステム 英文、日本語翻訳予定"
+  },
+  {
+    "objectID": "links.html#slackワークスペース",
+    "href": "links.html#slackワークスペース",
+    "title": "情報リンク",
+    "section": "Slackワークスペース",
+    "text": "Slackワークスペース\n\n下記ワークスペースへの招待リンク\nワークスペース(carpentries-ja.slack.com)"
+  },
+  {
+    "objectID": "links.html#ツイッター",
+    "href": "links.html#ツイッター",
+    "title": "情報リンク",
+    "section": "ツイッター",
+    "text": "ツイッター\n\n@swcarpentry-ja"
+  },
+  {
+    "objectID": "links.html#プレゼンテーション",
+    "href": "links.html#プレゼンテーション",
+    "title": "情報リンク",
+    "section": "プレゼンテーション",
+    "text": "プレゼンテーション\n\n2018年10月20日 TokyoR ソフトウェアカーペントリーの紹介 @TomKellyGenetics\n\nスライド\n\n2019年12月16日 Workflow Meetup ソフトウェアカーペントリーの紹介 @joelnitta\n\nスライド\nソースコード\n\n2020年11月7日 関西オープンフォーラム KOF2020 @kozo2\n\n概要\nスライド\nYouTubeアーカイブ\n\n\n\n\n\n\n2020年11月17日 岩崎研究室 ソフトウェアカーペントリーの紹介 @joelnitta\n\nスライド\nソースコード\nノート\n\n2021-03-27: fukuoka.R #17(オンライン) ザ・カーペントリーズの紹介 @masamiy\n\nスライド"
+  },
+  {
+    "objectID": "links.html#ミーティングノート",
+    "href": "links.html#ミーティングノート",
+    "title": "情報リンク",
+    "section": "ミーティングノート",
+    "text": "ミーティングノート\n\n2018年11月10日\n2018年12月1日\n2019年1月19日\n2019年7月21日\n2019年12月7日\n2019年12月24日\n2020年5月10日\n2020年7月29日以降"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "swcarpentry-ja.github.io",
+    "section": "",
+    "text": "ソフトウェアカーペントリーとは、ワークショップ形式でresearch computingのためのレッスンを行う国際的なコミュニティです。 ソフトウェアカーペントリー日本語チームはそのレッスンの英語を日本語に翻訳し、日本にもソフトウェアカーペントリーの情報を広めようと活動しています。\n具体的な目標はソフトウェアカーペントリーのコアレッスンをすべて日本語訳し、日本でも定期的に「日本語で」ワークショップを行うことです。"
+  },
+  {
+    "objectID": "index.html#翻訳プロジェクトへのリンク",
+    "href": "index.html#翻訳プロジェクトへのリンク",
+    "title": "swcarpentry-ja.github.io",
+    "section": "翻訳プロジェクトへのリンク",
+    "text": "翻訳プロジェクトへのリンク\nGitHubの swcarpentry-ja/i18n で翻訳プロジェクトの管理を 行っています。\n下記の「現在翻訳中のレッスン」の更新は、この swcarpentry-ja/i18n を更新すると自動的に行われるようになっています。\n翻訳プロジェクトへの参加を希望される方は 翻訳のクイックガイド をご参照ください。\n\n現在翻訳中のレッスン\n\nR-gapminder\ngit-novice\nshell-novice"
+  },
+  {
+    "objectID": "quickguide.html",
+    "href": "quickguide.html",
+    "title": "翻訳のクイックガイド",
+    "section": "",
+    "text": "“Fork” ボタンをクリックします"
+  },
+  {
+    "objectID": "quickguide.html#あなたの-fork-を-cloneもしくはdownload-する",
+    "href": "quickguide.html#あなたの-fork-を-cloneもしくはdownload-する",
+    "title": "翻訳のクイックガイド",
+    "section": "あなたの fork を CloneもしくはDownload する",
+    "text": "あなたの fork を CloneもしくはDownload する\n\nあなたのアカウントのi18nリポジトリにいることを確認します\n“Clone” をクリックします\n“HTTPS” をクリックします\nクリップボードのアイコンをクリックします (これでURLがコピーされます)\nターミナル(もしくはコマンドプロンプト)に移動し “git clone <コピーしたURLをここに貼り付ける>” を実行します\n“i18n” フォルダができていることを確認します"
+  },
+  {
+    "objectID": "quickguide.html#どのレッスンを翻訳するか決める",
+    "href": "quickguide.html#どのレッスンを翻訳するか決める",
+    "title": "翻訳のクイックガイド",
+    "section": "どのレッスンを翻訳するか決める",
+    "text": "どのレッスンを翻訳するか決める\n\nSWC-jaの i18n リポジトリに移動します\n“Issues” をクリックします\nタイトルに “Translation:” がある issue のどれかをクリックします\n説明を読みます\nこの issue にコメントし、あなたがこの翻訳に取り組むことをSWC-jaのメンバーに知らせます (コメントの例:「私はこれに取り組みます!!」)"
+  },
+  {
+    "objectID": "quickguide.html#翻訳する",
+    "href": "quickguide.html#翻訳する",
+    "title": "翻訳のクイックガイド",
+    "section": "翻訳する",
+    "text": "翻訳する\n\n“i18n” フォルダに移動します\n“po” フォルダに移動します\n“.ja.po” のファイル拡張子も持つファイルを見つけます\n“.ja.po” ファイルをお気に入りのPOエディターで翻訳するか、直接編集します"
+  },
+  {
+    "objectID": "quickguide.html#ファイルを直接編集する場合",
+    "href": "quickguide.html#ファイルを直接編集する場合",
+    "title": "翻訳のクイックガイド",
+    "section": "ファイルを直接編集する場合",
+    "text": "ファイルを直接編集する場合\n\n“msgid” は変更しないようにします\n“msgstr” ブロックの”“の内(間)を翻訳します"
+  }
+]

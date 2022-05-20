@@ -12,7 +12,7 @@ create_locale <- function(lang) {
       dplyr::filter(
         stringr::str_detect(
           file,
-          "^_site|po|R|renv|.Rprofile|renv.lock|locale",
+          "^docs|po|R|renv|.Rprofile|renv.lock|locale",
           negate = TRUE
         )
       ) %>%

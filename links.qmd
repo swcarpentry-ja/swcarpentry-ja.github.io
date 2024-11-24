@@ -5,14 +5,14 @@ title: 情報リンク
 ## Carpentriesのブログの記事
 
 - 2019年11月5日 [ソフトウェアカーペントリーの日本への紹介](https://carpentries.org/blog/2019/11/local-team-japan/) 英文、日本語翻訳予定
-- 2019年11月21日[日本語への翻訳のためのシステム](https://carpentries.org/blog/2019/11/translations-in-japanese/) 英文、日本語翻訳予定
+- 2019年11月21日 [日本語への翻訳のためのシステム](https://carpentries.org/blog/2019/11/translations-in-japanese/) 英文、日本語翻訳予定
+- 2021年6月29日 [ソフトウェアカーペントリーの初日本語ワークショップ](https://carpentries.org/blog/2021/06/first-japanese-r-workshop-ja/)（[First Software Carpentry Workshop in Japanese](https://carpentries.org/blog/2021/06/first-japanese-r-workshop-en/)）
 
 ## Slackワークスペース
 
-- [下記ワークスペースへの招待リンク](https://join.slack.com/t/carpentries-ja/shared_invite/zt-14lt78mp3-HY1NmwOeKdEiqxDytl4djA)
-- [ワークスペース(carpentries-ja.slack.com)](https://carpentries-ja.slack.com)
+- <https://slack-invite.carpentries.org/> から Slack に参加し、`#local-japan` チャンネルに入ってください。
 
-## ツイッター
+## X
 
 - [@swcarpentry-ja](https://twitter.com/swcarpentry_ja)
 

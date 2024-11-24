@@ -1,52 +1,88 @@
 ---
-title: 翻訳のクイックガイド
+title: 翻訳ガイド
 ---
 
-## リポジトリをforkする
+このガイドでは、翻訳（l10n）に貢献するコミュニティメンバーとしての参加方法を説明します。また、[ボランティア翻訳者向けの一般的なCrowdinドキュメント](https://support.crowdin.com/enterprise/getting-started-for-volunteers/)を参照することもお勧めします。
 
-1. “Fork” ボタンをクリックします
+Carpentriesの翻訳システムの全体について知りたい場合は[Carpentries translation guide](https://hackmd.io/oj4EsGXOQOScgB67E7f_bQ?view)を参照してください。
 
-![](fork_button.png)
+### アカウントを作成する
 
-## あなたの fork を CloneもしくはDownload する
+Carpentriesの翻訳には[Crowdin](https://ja.crowdin.com/)を使用しています。[Carpentries Crowdinアカウント](https://carpentries.crowdin.com/)に[このリンク](https://accounts.crowdin.com/carpentries/login)を通じてアカウントを作成してください。
 
-1. あなたのアカウントのi18nリポジトリにいることを確認します
-1. “Clone” をクリックします
-1. “HTTPS” をクリックします
-1. クリップボードのアイコンをクリックします (これでURLがコピーされます)
-1. ターミナル(もしくはコマンドプロンプト)に移動し “git clone <コピーしたURLをここに貼り付ける>” を実行します
-1. “i18n” フォルダができていることを確認します
+必要な詳細を記入してCrowdinでアカウントを作成するか、GitHub、Facebook、Twitter、GitLab、Googleアカウントを使用してサインアップすることもできます。
 
-![](clone1234.png)
+**注意**: CarpentriesではCrowdin Enterpriseを使用していますが、これは**crowdin.com**とは接続されていないため、別途アカウントを作成する必要があります。crowdin.comにアカウントを持っている場合でも、Crowdin Enterpriseに再度サインアップする必要があります。
 
-![](clone56.png)
+### 翻訳するファイルを選ぶ
 
-## どのレッスンを翻訳するか決める
+アカウントを作成してCarpentriesワークスペースにログインすると、進行中の翻訳プロジェクトが含まれるダッシュボードが表示されます。
+Carpentriesワークスペース内では、各プロジェクトがレッスンに対応しています。
 
-1. SWC-jaの i18n リポジトリに移動します
-1. “Issues” をクリックします
-1. タイトルに “Translation:” がある issue のどれかをクリックします
-1. 説明を読みます
-1. この issue にコメントし、あなたがこの翻訳に取り組むことをSWC-jaのメンバーに知らせます (コメントの例:「私はこれに取り組みます!!」)
+![image](https://hackmd.io/_uploads/r1PE3cfhp.png)
 
-![](which_lesson123.png)
+翻訳したいレッスンを1つ選び、翻訳する言語を選択します。希望する言語が表示されない場合は、マネージャーに連絡して追加を依頼してください。
 
-![](which_lesson45.png)
+言語を選択すると、翻訳が必要なファイルのリストが表示されます。
 
-## 翻訳する
+![image](https://hackmd.io/_uploads/H1ej99lNa.png)
 
-1. “i18n” フォルダに移動します
-1. “po” フォルダに移動します
-1. “.ja.po” のファイル拡張子も持つファイルを見つけます
-1. “.ja.po” ファイルをお気に入りのPOエディターで翻訳するか、直接編集します
+各ファイルの**優先度**は、ファイル名横の色付きの上矢印で示されています。赤は高優先度を示しているため、可能であればこれらを最初に翻訳してください。
 
-![](translate123.png)
+青と緑のバーは、それぞれどれだけの単語が翻訳され、承認されているかを示しています。機械翻訳が初回の翻訳に使用されますが、使用するには人間による承認が必要です。
 
-## ファイルを直接編集する場合
+ファイルを選択すると、翻訳エディタウィンドウに移動します。
 
-1. “msgid” は変更しないようにします
-1. “msgstr” ブロックの""の内(間)を翻訳します
+### エディタの使い方
 
-![](directly_editing12.png)
+[Crowdin](https://crowdin.com/)エディタはあなたの良きパートナーです。
+これを使用して、翻訳言語の変更、校正、コントリビューターへのコメントの追加、マネージャーへの連絡、翻訳の投票、翻訳メモリからの提案の確認、Google、Crowdin、DeepLなどの機械翻訳の確認ができます。
 
-![](example_translation.png)
+任意のファイルをクリックすると、Crowdinのクラウドソーシングエディタの快適モードに移動します。
+Crowdin内にはさまざまなモードとエディタがありますが、ここでは快適モードと校正者モードについて説明します。
+Crowdinエディタに関する詳細は、[こちらのドキュメント](https://support.crowdin.com/enterprise/getting-started-for-translators/)で確認できます。
+
+快適モードは以下の4つのセクションに分かれています：
+1. **左サイドバー (1):** 翻訳対象のファイル内のすべての文字列が表示されます。
+2. **中央上部エリア (2):** 翻訳を編集・投票するためのメイン作業エリアです。
+3. **中央下部エリア (3):** 翻訳メモリや機械翻訳（MT）の提案、他のプロジェクト参加者による翻訳が表示されます。
+4. **右サイドバー (4):** コメントの追加、問題の報告、利用可能な用語集の確認ができます。
+
+![image](https://hackmd.io/_uploads/SyUroAe4a.png)
+
+上記の画像に示されているように、**中央上部エリア (2)** はメインの作業エリアで、ソース文字列が上部に表示され、その下に翻訳を入力するセクションがあります。
+CrowdinはDeepLやCrowdin Translateなど、複数のエンジンを使用して実行された翻訳の提案を表示し、これらを編集することができます。
+
+文字列には以下のステータスが付けられます：
+
+- ![icons](images/untranslated.png){height="20"} 未翻訳
+- ![icons](https://hackmd.io/_uploads/HkdL4s-Na.png =60x60){height="25"} 翻訳済み
+- ![icons](https://the-turing-way.netlify.app/_images/approved_icon.png){height="25"} 承認済み
+- ![icons](https://the-turing-way.netlify.app/_images/hidden_icon.png){height="25"} 非表示（プロジェクトマネージャーと校正者のみ閲覧可能）
+
+アクティブな文字列は黄色でハイライトされますが、![icons](https://the-turing-way.netlify.app/_images/preview_filter.png)をクリックしてハイライトのオン/オフを切り替えたり、![icons](https://the-turing-way.netlify.app/_images/eye.png)を使用して翻訳プレビューを表示することができます。
+
+Crowdinエディタは、翻訳エンジンによる翻訳提案だけでなく、翻訳メモリ（TM）に保存されている文字列が70%以上類似している場合、これらの提案も表示します。
+これにより、作業の重複を避けることができます。
+
+### 校正
+
+デフォルトでは、[翻訳者としてプロジェクトに参加する](#アカウントを作成する)と、文字列を翻訳する権限しかありません。翻訳が承認されていない文字列は、実際の翻訳済みファイルには表示されません。
+
+翻訳を承認するには、まず校正者としての権限を取得する必要があります。Crowdinのユーザー名を添えて、言語コーディネーターにメールやSlackで連絡してください。言語コーディネーターが校正権限を付与する場合があります。
+
+権限を取得したら、メニュートップのWorkflowボタンをクリックしてProofreadingモードに切り替えます。初期設定では`CROWDSOURCING`と表示されています：
+
+![image](https://hackmd.io/_uploads/ry1KHs-ET.png)
+
+これにより、Workflowメニューが表示され、`PROOFREADING`を選択できます：
+
+![image](https://hackmd.io/_uploads/HJKyIo-NT.png)
+
+エディタウィンドウの見た目はほぼ同じですが、各文字列にチェックボタンが追加されています。翻訳が正しいと思われる場合は、チェックボタンを押して承認します。
+
+![image](https://hackmd.io/_uploads/rkr7PibNT.png)
+
+### 翻訳されたレッスンを表示する
+
+翻訳が承認されると、レッスンのウェブサイトが正しく設定されていれば、[言語コーディネーター向けガイド](https://hackmd.io/oj4EsGXOQOScgB67E7f_bQ?view#Forking-a-lesson-for-community-deployment)に記載されているようにフォークを同期することで、新しく翻訳されたウェブサイトを確認できるようになります。

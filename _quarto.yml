@@ -16,6 +16,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: materia
     css: styles.css
     toc: false

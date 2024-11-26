@@ -47,7 +47,7 @@ jobs:
           
       - name: Commit results
         run: |
-          cd _site
+          cd docs
           git init
           git add .
           git commit -m 'update website'

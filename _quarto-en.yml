@@ -1,0 +1,10 @@
+website:
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: quickguide.qmd
+        text: "Translation Guide"
+      - href: links.qmd
+        text: Links

@@ -1,0 +1,10 @@
+website:
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: ホーム
+      - href: quickguide.qmd
+        text: "翻訳ガイド"
+      - href: links.qmd
+        text: リンク

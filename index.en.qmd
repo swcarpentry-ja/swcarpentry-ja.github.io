@@ -1,0 +1,28 @@
+---
+title: "Software Carpentry Japan"
+title-block-banner: images/chiba_swc_2024-05-30_cropped.png
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
+---
+
+[Software Carpentry](https://software-carpentry.org/) is an international community that teaches research computing lessons through workshops. The Software Carpentry JA team translates English lessons into Japanese and provides information about Software Carpentry in Japan.
+
+Our specific goals are to translate all the [Software Carpentry lessons](https://software-carpentry.org/lessons/) into Japanese, and to [hold workshops](https://software-carpentry.org/workshops/) **in Japanese** on a regular basis.
+
+## The Translation Project
+
+We use [Crowdin]((https://carpentries.crowdin.com/u)) for translation.
+
+If you would like to contribute to translation, please first [create a Crowdin account](https://accounts.crowdin.com/carpentries/login), then read the [translation guide]().
+
+### Lessons Currently in Translation
+
+- [The Unix Shell ](https://swcarpentry-ja.github.io/shell-novice/)
+- [Version Control with Git](https://swcarpentry-ja.github.io/git-novice/)
+- [R for Reproducible Scientific Analysis](https://swcarpentry-ja.github.io/r-novice-gapminder/)

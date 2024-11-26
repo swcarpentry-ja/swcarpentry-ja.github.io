@@ -1,0 +1,72 @@
+---
+title: Links
+---
+
+## Posts on the Carpentries blog
+
+- 2019-11-5 [The Carpentries in Tōkyō: Adventures bringing Software Carpentry to Japan](https://carpentries.org/blog/2019/11/local-team-japan/)
+
+- 2019-11-21 [Internationalisation of Software Carpentry: System for Translation into Japanese](https://carpentries.org/blog/2019/11/translations-in-japanese/)
+
+- 2021-06-29 [First Software Carpentry Workshop in Japanese](https://carpentries.org/blog/2021/06/first-japanese-r-workshop-en/)
+
+## Slack Workspace
+
+- Join the Carpentries Slack Workspace from <https://slack-invite.carpentries.org/>, then join the `#local-japan` channel.
+
+## X
+
+- [@swcarpentry-ja](https://twitter.com/swcarpentry_ja)
+
+## Presentations
+
+- 2018-10-20 TokyoR Introducing Software Carpentry [@TomKellyGenetics](https://github.com/TomKellyGenetics)
+
+   - [Slides](https://www.slideshare.net/Fridayitis/presentation-oct2018tokyo-r)
+
+- 2019-12-16 [Workflow Meetup](https://workflow-meetup-jp.github.io/) Introducing Software Carpentry [@joelnitta](https://github.com/joelnitta)
+
+   - [Slides](https://joelnitta.github.io/swc-trans-2019-12-16/#1)
+
+   - [Source code](https://github.com/joelnitta/swc-trans-2019-12-16)
+
+- 2020-11-7 [Kansai Open Forum KOF2020](https://www.k-of.jp/2020/) [@kozo2](https://github.com/kozo2)
+
+   - [Summary](https://k-of.jp/backend/session/1380)
+
+   - [Slides](https://docs.google.com/presentation/d/1Or3HULEmJZT1P8AFSOl4C9JMfts-4T5FaMb0T9pVNZ8/edit#slide=id.p)
+
+
+         - YouTube Video (Japanese)
+[![](http://img.youtube.com/vi/8nRD6DkgkDw/0.jpg)](http://www.youtube.com/watch?v=8nRD6DkgkDw "KOF2020 ソフトウェア・カーペントリーで研究計算用のスキルを広めよう")
+
+- 2020-11-17 [Iwasaki lab](http://iwasakilab.k.u-tokyo.ac.jp/eindex.html) Introducing Software Carpentry [@joelnitta](https://github.com/joelnitta)
+
+   - [Slides](https://joelnitta.github.io/swc-trans-2020-11-17/#1) (Japanese)
+
+   - [Source code](https://github.com/joelnitta/swc-trans-2020-11-17/)
+
+   - [Notes](https://hackmd.io/TyLqI5dQTmqnnrH94mKn2A?view)
+
+- 2021-03-27: [fukuoka.R #17](https://fukuoka-r.connpass.com/event/206105/)(Online) Introducing the Carpentries [@masamiy](https://github.com/masamiy)
+
+   - [Slides](https://www.slideshare.net/MasamiYamaguchi/what-is-the-carpentries) (Japanese)
+
+## Meeting notes
+
+- [2018-11-10](https://docs.google.com/document/d/1a25dAWiWfNo5-ffe_VGFBdpx-n_O5D2HMYogpaGs1xE/edit)
+
+- [2018-12-1](https://docs.google.com/document/d/1iAmVtqdprjIgo8YercQg9wYwkNdkK4lyp24sL-pt5sA/edit)
+
+- [2019-1-19](https://docs.google.com/document/d/1CfjKSGpuZngPcSkZwV31XPhxtyruerX2pn_lUAP_GV0/edit)
+
+- [2019-7-21](https://docs.google.com/document/d/1WAnWp2s4tIXqo6a8EOABfWizoiPiRe6FI2PTTfNqtZs/edit)
+
+- [2019-12-7](https://docs.google.com/document/d/16IA3ChdGcs-VaPMr30FlSRXq88AVWSjsnqEcMHc9fqQ/edit)
+
+- [2019-12-24](https://hackmd.io/yX10jYXzSb-XVlgdApnOkQ?view)
+
+- [2020-5-10](https://docs.google.com/document/d/1dZR0DHtQ5udNU3gdEvnHv_18j5XuCoVpnDEpdjRDkt0/edit#heading=h.oq2lm1b7nze7)
+
+- [2020-7-29 and onwards](https://docs.google.com/document/d/1guIoZ4a-Nrr-oaBTsbPcZsx6bN_n8jrHGVqGya9OVYA/edit#heading=h.lx3pjqndsni4)
+

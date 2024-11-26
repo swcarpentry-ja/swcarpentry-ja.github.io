@@ -1,0 +1,88 @@
+---
+title: Translation Guide
+---
+
+This document explains how to participate as a community member contributing to translation (l10n). You may also want to consult the [general Crowdin documentation for volunteer translators](https://support.crowdin.com/enterprise/getting-started-for-volunteers/).
+
+For information about the overall translation system used by The Carpentries, see the [Carpentries Translation Guide](https://hackmd.io/@joelnitta/SkCSC6ZNT).
+
+### Create an account
+
+We use [Crowdin](https://ja.crowdin.com/) for translation. Create an account in the [Carpentries Crowdin account](https://carpentries.crowdin.com/) through [this link](https://accounts.crowdin.com/carpentries/login).
+
+You can either create an account in Crowdin by filling the requested details or through sign up using your GitHub, Facebook, Twitter, GitLab or Google account.
+
+**Warning**: The Carpentries is using Crowdin Enterprise, which is **not** connected to crowdin.com and needs a separate account. If you have an account in crowdin.com, you will still need to sign up again in Crowdin Enterprise.
+
+### Choose a file to translate
+
+Once you create your account and log in to the Carpentries workspace, you should see a dashboard including various on-going translation projects.
+In the Carpentries workspace, each project corresponds to a lesson.
+
+![image](https://hackmd.io/_uploads/r1PE3cfhp.png)
+
+Choose one of the lessons that you wish to translate, then choose a language to translate. If you don't see the language that you are interested in, contact one of the managers to request it be added.
+
+After selecting a language, you will see a list of files that need to be translated.
+
+![image](https://hackmd.io/_uploads/H1ej99lNa.png)
+
+The **priority** for each file is indicated by the colored up arrows next the file name; red indicates high priority, so if possible, please translate those first.
+
+The blue and green bars indicate how many words have been translated and approved, respectively. Machine translation is used as a first-pass, but requires human approval for use.
+
+Choosing a file will take you to the translation editor window.
+
+### Using the editor
+
+The [Crowdin](https://crowdin.com/) editor is your friend.
+You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote on translations, view suggestions for translation from Translation Memory or find Machine Translation from Google, Crowdin, DeepL, and others.
+
+Once you click on any file, you will be directed to the comfortable mode in the Crowdin crowdsourcing editor. 
+There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in the Crowdin crowdsourcing editor.
+You can find more information about the Crowdin Editor from the [documentation here](https://support.crowdin.com/enterprise/getting-started-for-translators/).
+
+The comfortable mode is divided into four sections:
+1. **Left Sidebar (1):** It contains all strings in the file that you will translate.
+2. **Middle-top area (2):** The main working area where you edit/upvote the translations.
+3. **Middle-bottom area (3):** This section contains suggestions from Translation Memory, Machine Translation (MT) suggestions, and translations by other project participants
+4. **Right sidebar (4):** You can use it to add comments, report issues, and see the existing Glossary available for the strings.
+
+![image](https://hackmd.io/_uploads/SyUroAe4a.png)
+
+As shown in the image above, the **Middle-top area (2)** is the main working area with the source string on the top, and the section where you can type in translations. 
+Crowdin will show you suggestions for translation carried out using two different engines (DeepL and Crowdin Translate), which will show you several possible translations that you can further edit.
+
+Strings may have the following statuses:
+
+- ![icons](images/untranslated.png){height="20"} Untranslated
+- ![icons](https://hackmd.io/_uploads/HkdL4s-Na.png =60x60){height="25"} Translated
+- ![icons](https://the-turing-way.netlify.app/_images/approved_icon.png){height="25"} Approved translation
+- ![icons](https://the-turing-way.netlify.app/_images/hidden_icon.png){height="25"} Hidden (visible only for project managers and proofreaders)
+
+An active string is highlighted with the yellow color but you can turn on/off color highlight of strings by clicking on ![icons](https://the-turing-way.netlify.app/_images/preview_filter.png) and show translation preview using ![icons](https://the-turing-way.netlify.app/_images/eye.png).
+
+Crowdin editor won't only show you suggestions of a translation made by the translation engine but also suggestions from translation for strings that are stored in Translation Memory \(TM\) if the string is has a similarity above 70%.
+This avoids duplication of effort.
+
+### Proofreading
+
+By default, when you [join the project as a translator](#Create-an-account), you only have permission to translate strings, but not to approve or reject translations. Strings that have not been approved will not appear the in actual translated file.
+
+To approve strings for translation, you need to first obtain permission as a Proofreader. Contact a Language Coordinator via email or slack, providing your Crowdin username. The Language Coordinator may then grant you permission to do proofreading.
+
+Once you have obtained permissions, switch to Proofreading mode by clicking the Workflow button on the top menu, which should say `CROWDSOURCING` by default:
+
+![image](https://hackmd.io/_uploads/ry1KHs-ET.png)
+
+This brings up the Workflow menu, where you can select `PROOFREADING`:
+
+![image](https://hackmd.io/_uploads/HJKyIo-NT.png)
+
+The editor window looks basically the same, but now for each string there is a check button. Press the check to approval the string if the translation appears correct.
+
+![image](https://hackmd.io/_uploads/rkr7PibNT.png)
+
+### Viewing the translated lesson
+
+After your translations have been approved, if the lesson website is set up correctly, you should be able to see the newly translated website by syncing the fork as described in the [Guide for Language Coordinators](#https://hackmd.io/oj4EsGXOQOScgB67E7f_bQ?view#Guide-for-Language-Coordinators).

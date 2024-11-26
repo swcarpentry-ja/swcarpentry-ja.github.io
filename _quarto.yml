@@ -5,17 +5,23 @@ project:
 website:
   title: "SWC-JA"
   navbar:
-    background: primary
-    left:
-      - href: index.qmd
-        text: ホーム
-      - quickguide.qmd
-      - links.qmd
-      - href: "https://swcarpentry-ja.github.io/en/"
-        text: English
+    left: []
 
 format:
   html:
     theme: materia
     css: styles.css
     toc: false
+
+babelquarto:
+  languagecodes:
+  - name: en
+    text: "English"
+  - name: ja
+    text: "日本語"
+  mainlanguage: 'ja'
+  languages: ['en']
+title-en: SWC-JA
+description-en: Software Carpentry Japan
+author-en: Joel Nitta
+lang: ja

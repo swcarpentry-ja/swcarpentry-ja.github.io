@@ -13,7 +13,7 @@ include-in-header:
 
 [Software Carpentry](https://software-carpentry.org/) is an international community that teaches research computing lessons through workshops. The Software Carpentry JA team translates English lessons into Japanese and provides information about Software Carpentry in Japan.
 
-Our specific goals are to translate all the [Software Carpentry lessons](https://software-carpentry.org/lessons/) into Japanese, and to [hold workshops](https://software-carpentry.org/workshops/) **in Japanese** on a regular basis.
+Our specific goals are to translate all the [Software Carpentry lessons](https://software-carpentry.org/lessons/) into Japanese, and to hold [workshops](workshops.qmd) **in Japanese** on a regular basis.
 
 ## The Translation Project
 

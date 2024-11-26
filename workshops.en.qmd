@@ -1,0 +1,15 @@
+---
+title: Workshops
+---
+
+## Past Workshops
+
+- 2024 Nov 25-26 Chiba University [Learn the basics of data science through Shell, Git, and R](https://swcarpentry-ja.github.io/2024-11-25-chiba/)
+
+- 2024 May 30-31 Chiba University [Improving reproducibility with Git and Docker](https://swcarpentry-ja.github.io/2024-05-30-chiba)
+
+- 2021 Apr 2, 7, 9, 14, 16 University of Tokyo (online) [Introduction to data analysis with R](https://swcarpentry-ja.github.io/2021-04-02-todai-online-en/)
+
+## Upcoming Workshops
+
+(currently none planned)

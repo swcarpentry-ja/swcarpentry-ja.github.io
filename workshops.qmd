@@ -1,0 +1,15 @@
+---
+title: ワークショップ
+---
+
+## 過去のワークショップ
+
+- 2024年11月25-26日 千葉大学 [Shell と Git と R の使い方を学び、データサイエンスの基礎を身につける](https://swcarpentry-ja.github.io/2024-11-25-chiba/)
+
+- 2024年05月30-31日 千葉大学 [Git と Docker を使ってデータ解析の再現性を向上させる](https://swcarpentry-ja.github.io/2024-05-30-chiba)
+
+- 2021年04月2日, 7日, 9日, 14日, 16日 千葉大学（オンライン） [R によるデータ解析入門](https://swcarpentry-ja.github.io/2021-04-02-todai-online-ja/)
+
+## 予定のワークショップ
+
+（現在、予定はありません）

@@ -4,7 +4,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: workshops.qmd
       - href: quickguide.qmd
-        text: "Translation Guide"
       - href: links.qmd
         text: Links

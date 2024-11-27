@@ -6,5 +6,6 @@ website:
         text: ホーム
       - href: workshops.qmd
       - href: quickguide.qmd
+      - href: faq.qmd
       - href: links.qmd
         text: リンク

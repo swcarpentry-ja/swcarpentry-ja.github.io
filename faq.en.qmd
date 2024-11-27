@@ -1,0 +1,60 @@
+---
+title: Frequently Asked Questions
+toc: true
+---
+
+## About Workshops
+
+### What are the benefits of conducting a workshop?
+
+- Carpentries workshops are **developed by researchers** and **designed for researchers**. They allow participants to efficiently learn essential research skills that are difficult to acquire through self-study.
+
+- Workshop content is continuously updated. When software versions change and usage is affected, the lessons are revised accordingly. This ensures that instructors do not need to update the content themselves.
+
+- Instructors gain certification, equipping them with best practices in teaching methods.
+
+- By conducting or attending workshops, participants join the broader Carpentries community including members from around the world. This provides opportunities for networking and skill development.
+
+### What are the requirements for a workshop to be recognized as official?
+
+An official Carpentries workshop is one that is promoted using [The Carpentries](https://carpentries.org/) name and/or logo.
+
+To meet the requirements to qualify, a **certified Carpentries instructor** must teach the **core curriculum**.
+
+Carpentries workshops require at least two instructors to teach, with at least one of them being certified. Helpers, who assist participants during the workshop, are not required to have certification, and there is no set number of helpers.
+
+The [Software Carpentry core curriculum](https://software-carpentry.org/lessons/) includes **bash shell**, **Git**, **R**, or **Python** (a total of three lessons).
+
+### How much does it cost to run a workshop?
+
+To make workshops accessible to as many participants as possible, they are typically offered for free or a very small charge.
+
+Instructors volunteer their time and are not paid for their work.
+
+The costs of hosting the workshop, such as venue fees and instructor travel expenses and accommodation, must be covered by the host organization.
+
+The lesson materials are provided under a Creative Commons Attribution 4.0 International License, so there are no costs associated with using them.
+
+## Participation
+
+### Who is the target audience?
+
+The primary audience consists of individuals involved in research, such as graduate students, faculty members, and technical staff. Undergraduate students conducting research are also welcome to participate.
+
+No prior knowledge of the [core curriculum](https://software-carpentry.org/lessons/) (bash shell, Git, R, or Python) is required, as the workshops are aimed at beginners.
+
+### How can I become an instructor?
+
+To become an instructor, certification is required.
+
+To obtain certification, you must complete [instructor training](https://carpentries.github.io/instructor-training/index.html), which takes approximately 16 hours. The training is available online, and you can apply for it [here](https://amy.carpentries.org/forms/request_training/).
+
+Currently, instructor training in Japanese is under preparation.
+
+## Lessons
+
+### What other lessons are available?
+
+In addition to Software Carpentry, other [official lessons](https://carpentries.org/lessons/curriculum-summary/) are available. [Data Carpentry](https://datacarpentry.org/) provides lessons focused on data analysis in specific domains such as ecology, social sciences, and astronomy. [Library Carpentry](https://librarycarpentry.org/) teaches data analysis skills essential for library management.
+
+Furthermore, the community has developed [additional lessons](https://carpentries-incubator.org/) that go beyond the official curriculum.

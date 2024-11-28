@@ -58,3 +58,23 @@ Currently, instructor training in Japanese is under preparation.
 In addition to Software Carpentry, other [official lessons](https://carpentries.org/lessons/curriculum-summary/) are available. [Data Carpentry](https://datacarpentry.org/) provides lessons focused on data analysis in specific domains such as ecology, social sciences, and astronomy. [Library Carpentry](https://librarycarpentry.org/) teaches data analysis skills essential for library management.
 
 Furthermore, the community has developed [additional lessons](https://carpentries-incubator.org/) that go beyond the official curriculum.
+
+## The Carpentries
+
+### What is the relationship between Software Carpentry and The Carpentries?
+
+Software Carpentry helps researchers learn fundamental skills in programming and data management. On the other hand, The Carpentries is the organization that oversees Software Carpentry, as well as Data Carpentry and Library Carpentry.
+
+The Carpentries plays a supporting role for these projects by developing shared curricula, training trainers, and supporting the entire Carpentries community.
+
+### Does Software Carpentry Japan only focus on translating Software Carpentry materials?
+
+Software Carpentry Japan initially began with the primary goal of translating the Software Carpentry curriculum and organizing workshops. However, it now also aims to translate the curricula and conduct workshops for The Carpentries as a whole.
+
+### What is the business model of The Carpentries?
+
+The Carpentries is a nonprofit organization whose business model is primarily supported by [membership fees](https://carpentries.org/support/membership/), grants, and [donations](https://carpentries.org/support/sponsorship/).
+
+Major supporting foundations include the Chan Zuckerberg Initiative and the Gordon and Betty Moore Foundation.  
+
+Membership is not designed for individuals but for research institutions (such as universities, museums, and libraries). These institutions pay an annual fee to receive specific benefits, such as instructor training and support for organizing workshops (e.g., providing instructors). Workshops organized by The Carpentries staff are called "centrally organized workshops." On the other hand, if a hosting organization independently plans and organizes a workshop, no membership fee is required (these are called "self-hosted workshops").

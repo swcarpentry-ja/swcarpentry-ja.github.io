@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "quickguide.html",
+    "href": "quickguide.html",
+    "title": "Translation Guide",
+    "section": "",
+    "text": "This document explains how to participate as a community member contributing to translation (l10n). You may also want to consult the general Crowdin documentation for volunteer translators.\nFor information about the overall translation system used by The Carpentries, see the Carpentries Translation Guide.\n\nCreate an account\nWe use Crowdin for translation. Create an account in the Carpentries Crowdin account through this link.\nYou can either create an account in Crowdin by filling the requested details or through sign up using your GitHub, Facebook, Twitter, GitLab or Google account.\nWarning: The Carpentries is using Crowdin Enterprise, which is not connected to crowdin.com and needs a separate account. If you have an account in crowdin.com, you will still need to sign up again in Crowdin Enterprise.\n\n\nChoose a file to translate\nOnce you create your account and log in to the Carpentries workspace, you should see a dashboard including various on-going translation projects. In the Carpentries workspace, each project corresponds to a lesson.\n\n\n\nimage\n\n\nChoose one of the lessons that you wish to translate, then choose a language to translate. If you don’t see the language that you are interested in, contact one of the managers to request it be added.\nAfter selecting a language, you will see a list of files that need to be translated.\n\n\n\nimage\n\n\nThe priority for each file is indicated by the colored up arrows next the file name; red indicates high priority, so if possible, please translate those first.\nThe blue and green bars indicate how many words have been translated and approved, respectively. Machine translation is used as a first-pass, but requires human approval for use.\nChoosing a file will take you to the translation editor window.\n\n\nUsing the editor\nThe Crowdin editor is your friend. You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote on translations, view suggestions for translation from Translation Memory or find Machine Translation from Google, Crowdin, DeepL, and others.\nOnce you click on any file, you will be directed to the comfortable mode in the Crowdin crowdsourcing editor. There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in the Crowdin crowdsourcing editor. You can find more information about the Crowdin Editor from the documentation here.\nThe comfortable mode is divided into four sections: 1. Left Sidebar (1): It contains all strings in the file that you will translate. 2. Middle-top area (2): The main working area where you edit/upvote the translations. 3. Middle-bottom area (3): This section contains suggestions from Translation Memory, Machine Translation (MT) suggestions, and translations by other project participants 4. Right sidebar (4): You can use it to add comments, report issues, and see the existing Glossary available for the strings.\n\n\n\nimage\n\n\nAs shown in the image above, the Middle-top area (2) is the main working area with the source string on the top, and the section where you can type in translations. Crowdin will show you suggestions for translation carried out using two different engines (DeepL and Crowdin Translate), which will show you several possible translations that you can further edit.\nStrings may have the following statuses:\n\n Untranslated\n Translated\n Approved translation\n Hidden (visible only for project managers and proofreaders)\n\nAn active string is highlighted with the yellow color but you can turn on/off color highlight of strings by clicking on  and show translation preview using .\nCrowdin editor won’t only show you suggestions of a translation made by the translation engine but also suggestions from translation for strings that are stored in Translation Memory (TM) if the string is has a similarity above 70%. This avoids duplication of effort.\n\n\nProofreading\nBy default, when you join the project as a translator, you only have permission to translate strings, but not to approve or reject translations. Strings that have not been approved will not appear the in actual translated file.\nTo approve strings for translation, you need to first obtain permission as a Proofreader. Contact a Language Coordinator via email or slack, providing your Crowdin username. The Language Coordinator may then grant you permission to do proofreading.\nOnce you have obtained permissions, switch to Proofreading mode by clicking the Workflow button on the top menu, which should say CROWDSOURCING by default:\n\n\n\nimage\n\n\nThis brings up the Workflow menu, where you can select PROOFREADING:\n\n\n\nimage\n\n\nThe editor window looks basically the same, but now for each string there is a check button. Press the check to approval the string if the translation appears correct.\n\n\n\nimage\n\n\n\n\nViewing the translated lesson\nAfter your translations have been approved, if the lesson website is set up correctly, you should be able to see the newly translated website by syncing the fork as described in the Guide for Language Coordinators."
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "2024 Nov 25-26 Chiba University Learn the basics of data science through Shell, Git, and R\n2024 May 30-31 Chiba University Improving reproducibility with Git and Docker\n2021 Apr 2, 7, 9, 14, 16 University of Tokyo (online) Introduction to data analysis with R"
+  },
+  {
+    "objectID": "workshops.html#past-workshops",
+    "href": "workshops.html#past-workshops",
+    "title": "Workshops",
+    "section": "",
+    "text": "2024 Nov 25-26 Chiba University Learn the basics of data science through Shell, Git, and R\n2024 May 30-31 Chiba University Improving reproducibility with Git and Docker\n2021 Apr 2, 7, 9, 14, 16 University of Tokyo (online) Introduction to data analysis with R"
+  },
+  {
+    "objectID": "workshops.html#upcoming-workshops",
+    "href": "workshops.html#upcoming-workshops",
+    "title": "Workshops",
+    "section": "Upcoming Workshops",
+    "text": "Upcoming Workshops\n(currently none planned)"
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "Carpentries workshops are designed by researchers, for researchers. They allow participants to efficiently learn essential research skills that are difficult to acquire through self-study.\nWorkshop content is continuously updated. When software versions change and usage is affected, the lessons are revised accordingly. This ensures that instructors do not need to update the content themselves.\nInstructors gain certification, equipping them with best practices in teaching methods.\nBy conducting or attending workshops, participants join the broader Carpentries community including members from around the world. This provides opportunities for networking and skill development.\n\n\n\n\nAn official Carpentries workshop is one that is promoted using The Carpentries name and/or logo.\nTo meet the requirements to qualify as an official workshop, a certified Carpentries instructor must teach the core curriculum.\nCarpentries workshops require at least two instructors to teach, with at least one of them being certified. Helpers, who assist participants during the workshop, are not required to have certification, and there is no set number of helpers.\nThe Software Carpentry core curriculum includes bash shell, Git, R, or Python (a total of three lessons).\n\n\n\nTo make workshops accessible to as many participants as possible, they are typically offered for free or a very small charge.\nInstructors volunteer their time and are not paid for their work.\nThe costs of hosting the workshop, such as venue fees and instructor travel expenses and accommodation, must be covered by the host organization.\nThe lesson materials are provided under a Creative Commons Attribution 4.0 International License, so there are no costs associated with using them."
+  },
+  {
+    "objectID": "faq.html#about-workshops",
+    "href": "faq.html#about-workshops",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "Carpentries workshops are designed by researchers, for researchers. They allow participants to efficiently learn essential research skills that are difficult to acquire through self-study.\nWorkshop content is continuously updated. When software versions change and usage is affected, the lessons are revised accordingly. This ensures that instructors do not need to update the content themselves.\nInstructors gain certification, equipping them with best practices in teaching methods.\nBy conducting or attending workshops, participants join the broader Carpentries community including members from around the world. This provides opportunities for networking and skill development.\n\n\n\n\nAn official Carpentries workshop is one that is promoted using The Carpentries name and/or logo.\nTo meet the requirements to qualify as an official workshop, a certified Carpentries instructor must teach the core curriculum.\nCarpentries workshops require at least two instructors to teach, with at least one of them being certified. Helpers, who assist participants during the workshop, are not required to have certification, and there is no set number of helpers.\nThe Software Carpentry core curriculum includes bash shell, Git, R, or Python (a total of three lessons).\n\n\n\nTo make workshops accessible to as many participants as possible, they are typically offered for free or a very small charge.\nInstructors volunteer their time and are not paid for their work.\nThe costs of hosting the workshop, such as venue fees and instructor travel expenses and accommodation, must be covered by the host organization.\nThe lesson materials are provided under a Creative Commons Attribution 4.0 International License, so there are no costs associated with using them."
+  },
+  {
+    "objectID": "faq.html#participation",
+    "href": "faq.html#participation",
+    "title": "Frequently Asked Questions",
+    "section": "Participation",
+    "text": "Participation\n\nWho is the target audience?\nThe primary audience consists of individuals involved in research, such as graduate students, faculty members, and technical staff. Undergraduate students conducting research are also welcome to participate.\nNo prior knowledge of the core curriculum (bash shell, Git, R, or Python) is required, as the workshops are aimed at beginners.\n\n\nHow can I become an instructor?\nTo become an instructor, certification is required.\nTo obtain certification, you must complete instructor training, which takes approximately 16 hours. The training is available online, and you can apply for it here.\nCurrently, instructor training in Japanese is under preparation."
+  },
+  {
+    "objectID": "faq.html#lessons",
+    "href": "faq.html#lessons",
+    "title": "Frequently Asked Questions",
+    "section": "Lessons",
+    "text": "Lessons\n\nWhat other lessons are available?\nIn addition to Software Carpentry, other official lessons are available. Data Carpentry provides lessons focused on data analysis in specific domains such as ecology, social sciences, and astronomy. Library Carpentry teaches data analysis skills essential for library management.\nFurthermore, the community has developed additional lessons that go beyond the official curriculum."
+  },
+  {
+    "objectID": "faq.html#the-carpentries",
+    "href": "faq.html#the-carpentries",
+    "title": "Frequently Asked Questions",
+    "section": "The Carpentries",
+    "text": "The Carpentries\n\nWhat is the relationship between Software Carpentry and The Carpentries?\nSoftware Carpentry helps researchers learn fundamental skills in programming and data management. On the other hand, The Carpentries is the organization that oversees Software Carpentry, as well as Data Carpentry and Library Carpentry.\nThe Carpentries plays a supporting role for these projects by developing shared curricula, training trainers, and supporting the entire Carpentries community.\n\n\nDoes Software Carpentry Japan only focus on translating Software Carpentry materials?\nSoftware Carpentry Japan initially began with the primary goal of translating the Software Carpentry curriculum and organizing workshops. However, it now also aims to translate the curricula and conduct workshops for The Carpentries as a whole.\n\n\nWhat is the business model of The Carpentries?\nThe Carpentries is a nonprofit organization whose business model is primarily supported by membership fees, grants, and donations.\nMajor supporting foundations include the Chan Zuckerberg Initiative and the Gordon and Betty Moore Foundation.\nMembership is not designed for individuals but for research institutions (such as universities, museums, and libraries). These institutions pay an annual fee to receive specific benefits, such as instructor training and support for organizing workshops (e.g., providing instructors). Workshops organized by The Carpentries staff are called “centrally organized workshops.” On the other hand, if a hosting organization independently plans and organizes a workshop, no membership fee is required (these are called “self-hosted workshops”)."
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
+    "section": "",
+    "text": "2019-11-5 The Carpentries in Tōkyō: Adventures bringing Software Carpentry to Japan\n2019-11-21 Internationalisation of Software Carpentry: System for Translation into Japanese\n2021-06-29 First Software Carpentry Workshop in Japanese"
+  },
+  {
+    "objectID": "links.html#posts-on-the-carpentries-blog",
+    "href": "links.html#posts-on-the-carpentries-blog",
+    "title": "Links",
+    "section": "",
+    "text": "2019-11-5 The Carpentries in Tōkyō: Adventures bringing Software Carpentry to Japan\n2019-11-21 Internationalisation of Software Carpentry: System for Translation into Japanese\n2021-06-29 First Software Carpentry Workshop in Japanese"
+  },
+  {
+    "objectID": "links.html#slack-workspace",
+    "href": "links.html#slack-workspace",
+    "title": "Links",
+    "section": "Slack Workspace",
+    "text": "Slack Workspace\n\nJoin the Carpentries Slack Workspace from https://slack-invite.carpentries.org/, then join the #local-japan channel."
+  },
+  {
+    "objectID": "links.html#x",
+    "href": "links.html#x",
+    "title": "Links",
+    "section": "X",
+    "text": "X\n\n@swcarpentry-ja"
+  },
+  {
+    "objectID": "links.html#presentations",
+    "href": "links.html#presentations",
+    "title": "Links",
+    "section": "Presentations",
+    "text": "Presentations\n\n2018-10-20 TokyoR Introducing Software Carpentry @TomKellyGenetics\n\nSlides\n\n2019-12-16 Workflow Meetup Introducing Software Carpentry @joelnitta\n\nSlides\nSource code\n\n2020-11-7 Kansai Open Forum KOF2020 @kozo2\n\nSummary\nSlides\n- YouTube Video (Japanese)\n\n\n2020-11-17 Iwasaki lab Introducing Software Carpentry @joelnitta\n\nSlides (Japanese)\nSource code\nNotes\n\n2021-03-27: fukuoka.R #17(Online) Introducing the Carpentries @masamiy\n\nSlides (Japanese)"
+  },
+  {
+    "objectID": "links.html#meeting-notes",
+    "href": "links.html#meeting-notes",
+    "title": "Links",
+    "section": "Meeting notes",
+    "text": "Meeting notes\n\n2018-11-10\n2018-12-1\n2019-1-19\n2019-7-21\n2019-12-7\n2019-12-24\n2020-5-10\n2020-7-29 and onwards"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Software Carpentry Japan",
+    "section": "",
+    "text": "Software Carpentry is an international community that teaches research computing lessons through workshops. The Software Carpentry JA team translates English lessons into Japanese and provides information about Software Carpentry in Japan.\nOur specific goals are to translate all the Software Carpentry lessons into Japanese, and to hold workshops in Japanese on a regular basis."
+  },
+  {
+    "objectID": "index.html#the-translation-project",
+    "href": "index.html#the-translation-project",
+    "title": "Software Carpentry Japan",
+    "section": "The Translation Project",
+    "text": "The Translation Project\nWe use Crowdin for translation.\nIf you would like to contribute to translation, please first create a Crowdin account, then read the translation guide.\n\nLessons Currently in Translation\n\nThe Unix Shell\nVersion Control with Git\nR for Reproducible Scientific Analysis"
+  }
+]

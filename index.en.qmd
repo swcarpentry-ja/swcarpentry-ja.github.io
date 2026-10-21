@@ -26,3 +26,4 @@ If you would like to contribute to translation, please first [create a Crowdin a
 - [The Unix Shell ](https://swcarpentry-ja.github.io/shell-novice/)
 - [Version Control with Git](https://swcarpentry-ja.github.io/git-novice/)
 - [R for Reproducible Scientific Analysis](https://swcarpentry-ja.github.io/r-novice-gapminder/)
+- [Introduction to Targets](https://swcarpentry-ja.github.io/targets-workshop/)

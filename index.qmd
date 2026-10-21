@@ -27,3 +27,4 @@ include-in-header:
 - [Unixシェル ](https://swcarpentry-ja.github.io/shell-novice/)
 - [Gitによるバージョン管理](https://swcarpentry-ja.github.io/git-novice/)
 - [再現可能なデータ解析のためのR](https://swcarpentry-ja.github.io/r-novice-gapminder/)
+- [targets Rパッケージ入門](https://swcarpentry-ja.github.io/targets-workshop/)
